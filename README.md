@@ -17,7 +17,6 @@ Compile the Code:
 Make sure you have the gcc compiler installed. Compile the code with:
 
 ```bash
-Copiar código
 gcc -o obfuscador xor.c
 ```
 
