@@ -36,6 +36,12 @@ To obfuscate a shellcode:
 [@] Example -> \x90\x90\x90\x90
 [!] SHELLCODE -> your shellcode
 ```
+
+# POC
+
+![image](https://github.com/user-attachments/assets/fc482abf-7de3-4118-bf2e-622401d74bd2)
+
+
 Contribution
 Feel free to contribute to the project. If you find a bug or have suggestions for improvements, please open an issue or send a pull request.
 
