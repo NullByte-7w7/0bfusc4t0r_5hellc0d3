@@ -10,6 +10,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/NullByte-7w7/0bfusc4t0r_5hellc0d3.git
+cd 0bfusc4t0r_5hellc0d3
 ```
 Compile the Code:
 
