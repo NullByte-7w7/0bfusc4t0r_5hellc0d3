@@ -30,11 +30,11 @@ Check Result:
 the obfuscated shellcode will be printed on the screen, just use
 
 Example
-To obfuscate a shellcode, you can run the following command:
+To obfuscate a shellcode:
 
 ```bash
 [@] Example -> \x90\x90\x90\x90
-[!] SHELLCODE -> 
+[!] SHELLCODE -> your shellcode
 ```
 Contribution
 Feel free to contribute to the project. If you find a bug or have suggestions for improvements, please open an issue or send a pull request.
