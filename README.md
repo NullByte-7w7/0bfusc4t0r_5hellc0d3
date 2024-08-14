@@ -1,4 +1,4 @@
-# Obfuscador de Shellcode
+# Obfuscador  Shellcode
 This is a C program designed to obfuscate shellcode. The goal is to transform shellcode so that it still works, but is more difficult to detect and analyze.
 
 Features
