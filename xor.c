@@ -54,7 +54,5 @@ int main(void){
                 obfuscate(shellcode, len, key);
                 printf(RED "\nSIZE SHELLCODE -> %i\n" RESET, len);
 
-                // deobfuscate the shellcode
-
                 return 0;
 }
