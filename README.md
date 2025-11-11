@@ -45,9 +45,6 @@ To obfuscate a shellcode:
 **Contribution**
 Feel free to contribute to the project. If you find a bug or have suggestions for improvements, please open an issue or send a pull request.
 
-**license**
-This project is licensed under the MIT License - consult the LICENSE archive before obtaining more details.
-
 **Contact**
 discord: darksec_
 
